@@ -1,7 +1,7 @@
 # LinkedList-Implementation
-CS 5V81 - Implementation of Data structures and Algorithms
-Fall 2018
-Short Project 1: Linked lists
+CS 5V81 - Implementation of Data structures and Algorithms  
+Fall 2018  
+Short Project 1: Linked lists  
 
 Authors -
 Team SG1 32
