@@ -3,7 +3,7 @@ CS 5V81 - Implementation of Data structures and Algorithms
 Fall 2018
 Short Project 1: Linked lists
 
-Authors
+Authors -
 Team SG1 32
 - Prateek Sarna (pxs180012)
 - Sneha Hulivan Girisha (sxh173730)
